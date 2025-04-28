@@ -1,0 +1,25 @@
+#container{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+#div1{
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    border: 5px solid red;
+    color: red;
+    align-content: center;
+    border-radius: 20px;
+}
+#div2{
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    border: 5px solid blue;
+    color: blue;
+    align-content: center;
+    border-radius: 20px;
+}

@@ -1,0 +1,21 @@
+#one {
+    display: flex;
+    padding: 30px;
+    width: 200px;
+    height: 200px;
+}
+#two {
+    display: flex;
+    margin: 50px;
+}
+#three {
+    display: flex;
+    margin: 10px;
+}
+#four{
+    display: flex;
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;
+    border-color: red;
+}
